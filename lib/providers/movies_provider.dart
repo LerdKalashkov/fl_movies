@@ -9,7 +9,7 @@ import 'package:http/http.dart' as http;
 import '../helpers/debouncer.dart';
 
 class MoviesProvider extends ChangeNotifier {
-  final String _apiKey = 'ab5449945674dc900da150947b0c5b83';
+  final String _apiKey = 'ab54499******47b0c5b83';
   final String _baseUrl = 'api.themoviedb.org';
   final String _language = 'en-US';
 
